@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Fajar 😀👋
 
-<!--
-**FajarFaisal/FajarFaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Technology Business Management (Honours) Graduate at Ontario Tech University
 
-Here are some ideas to get you started:
+I enjoy working with data, improving processes, and turning complex problems into practical, data-driven solutions. I'm continuously building my technical and analytical skills through projects and hands-on learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Supply Chain Analytics
+- AI & Automation
+- Product & Technology
+
+## 🛠 Tech Stack
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Git
+- HTML
+- CSS
+- JavaScript
+
+## 💼 Open to Opportunities
+
+I'm currently seeking internships and entry-level opportunities where I can apply my analytical and technical skills while continuing to grow professionally.
+
+## 📌 Featured Projects
+
+🚧 Currently uploading projects and polishing documentation.
+
+Stay tuned!
+
+## 📫 Connect With Me
+
+LinkedIn: linkedin.com/in/fajar-faisal
+
+Email: fajar_faisal@outlook.com
